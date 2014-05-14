@@ -14,3 +14,7 @@ Tutorial: [Color Clustering in Python](http://107.170.41.146/color-clustering-in
 ## Potential Use Cases
 
 Turn into a CSS - [jsfiddle](http://jsfiddle.net/mrcactu5/6WVaM/)
+
+![](https://github.com/MonsieurCactus/colores)
+
+![](https://dl.dropboxusercontent.com/u/17949100/prDataMeetup/house-CSS.png)
