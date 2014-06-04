@@ -1,14 +1,13 @@
-# Colores.py -- extract color pallets from you favorite images
+# Colores.py -- extract color palletes from your favorite images
 
 ![](http://107.170.41.146/content/images/2014/May/nuance.png)
 
-prerequisites
+prerequisites: `numpy` +  `scikit-image`
 
- - `numpy`
- - `scikit-image`
+Tutorials: 
 
-
-Tutorial: [Color Clustering in Python](http://107.170.41.146/color-clustering-in-python-2/)
+ - [Color Clustering in Python](http://107.170.41.146/color-clustering-in-python-2/)
+ - [BarCamp (Old San Juan): *Colores de San Juan*](http://nbviewer.ipython.org/github/MonsieurCactus/colores/blob/master/BarCamp.ipynb)
 
 
 ## Potential Use Cases
